@@ -2,7 +2,7 @@
 # Taller – Git & GitHub (flujo individual, sin ramas)
 Nombre: Ivan Garcia Ortiz
 Matrícula: 2242041418
-
+//AGREGUE UN CAMBIO EN VISUAL S.
 ====================================================================
 0) AYUDA RÁPIDA (para cuando te trabes)
 ====================================================================
